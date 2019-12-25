@@ -1,0 +1,14 @@
+.ice-jumper-practice {
+  background-color: #000;
+  color: #a5a5a5;
+  position: relative;
+  
+}
+.ice-jumper-practice pre {
+  margin: 0;
+}
+.ice-jumper-practic__markers {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
